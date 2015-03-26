@@ -41,6 +41,7 @@
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"open_files_in_new_window": false,
+	"rulers": [100],
 	"soda_folder_icons": true,
 	"spell_check": false,
 	"theme": "Soda Light 3.sublime-theme",
