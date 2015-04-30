@@ -5,7 +5,8 @@
 	"color_scheme": "Packages/User/Tokki.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_size": 11.0,
+	"font_face": "Menlo",
+	"font_size": 12.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -38,10 +39,17 @@
 		"Textile",
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_padding_bottom": 0.9,
+	"line_padding_top": 0.9,
 	"open_files_in_new_window": false,
-	"rulers": [100],
+	"rulers":
+	[
+		100
+	],
 	"soda_folder_icons": true,
 	"spell_check": false,
 	"theme": "Soda Light 3.sublime-theme",
