@@ -50,6 +50,7 @@
 	[
 		100
 	],
+	"scroll_past_end": true,
 	"soda_folder_icons": true,
 	"spell_check": false,
 	"theme": "Soda Light 3.sublime-theme",
