@@ -9,11 +9,15 @@
 	"font_size": 12.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"sidebar_xsmall": true,
+	"tabs_small": true,
 	"ignored_packages":
 	[
 		"ActionScript",
+		"AppleScript",
 		"ASP",
 		"Batch File",
+		"Better CoffeeScript",
 		"C#",
 		"C++",
 		"Clojure",
@@ -37,6 +41,7 @@
 		"SQL",
 		"TCL",
 		"Textile",
+		"Twig",
 		"Vintage"
 	],
 	"indent_guide_options":
